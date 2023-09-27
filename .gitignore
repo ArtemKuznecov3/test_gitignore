@@ -1,2 +1,1 @@
-
-/two.txtgit config --global core.excludesFile ~/.gitignore
+!two.txtgit 
